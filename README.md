@@ -1,3 +1,35 @@
+## eCart App
+
+# Overview
+
+The eCart App is a user-friendly web application designed for online shopping, allowing users to browse items, add them to their cart, and remove them as needed. This project showcases essential web development concepts such as state management, data handling, and responsive design.
+
+# Features
+
+Product Listing: Display a list of available products with essential details like name, price, and image.
+
+Add to Cart: Users can easily add products to their shopping cart with a single click.
+
+Remove from Cart: Users can remove items from their cart, updating the total price dynamically.
+
+Cart Summary: A dedicated view displaying the items in the cart along with the total amount.
+
+Responsive Design: The app is optimized for various devices, ensuring a seamless shopping experience on desktops, tablets, and smartphones.
+
+Persistent State: Cart items persist across page refreshes using local storage.
+
+# Technologies Used
+
+Frontend: ReactJS
+
+Styling: CSS
+
+State Management: React Hooks
+
+Routing: React Router
+
+Deployment: Netlify
+
 # Live Demo
 
 https://ecart-reactjs-deploy.netlify.app/
